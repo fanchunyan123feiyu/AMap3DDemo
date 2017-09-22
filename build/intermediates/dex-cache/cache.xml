@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\AMap3DDemo\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="D:\AndroidStudioProjects\AMap3DDemo\app\build\intermediates\pre-dexed\debug\android-support-v4_0983423fcf6817b46d9a259f261e473e617ea26b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\AMap3DDemo\app\libs\AMap_Location_V3.4.0_20170427.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fa2675ac2111742d045390a97dd39ea48d957b87">
+        <dex dex="D:\AndroidStudioProjects\AMap3DDemo\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.4.0_20170427_f6cba2547dbf22ace565baa3fad284951800f9ce.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\AMap3DDemo\app\libs\Volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="D:\AndroidStudioProjects\AMap3DDemo\app\build\intermediates\pre-dexed\debug\Volley_f20704c12ca7e60863a50855e8640a1a33cf7f78.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\AMap3DDemo\app\libs\AMap_Search_V5.1.0_20170517.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b860e448222bf702b19aa36f772c881907a773c2">
+        <dex dex="D:\AndroidStudioProjects\AMap3DDemo\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.1.0_20170517_6621bc95fc38df003eea13839a652d97ceeedf17.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\AMap3DDemo\app\libs\Android_Map3D_SDK_V5.2.0_20170602.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="68ff8a150ed65a9c5f6a04665caae7cb0b57b858">
+        <dex dex="D:\AndroidStudioProjects\AMap3DDemo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.2.0_20170602_3e68709a89fa55e58f09c3393e8903b01a6c7ea7.jar" />
+    </item>
+
+</items>
