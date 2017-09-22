@@ -63,6 +63,7 @@ OnMarkerClickListener, OnInfoWindowClickListener, InfoWindowAdapter, OnRouteSear
 		mapView = (MapView) findViewById(R.id.route_map);
 		mapView.onCreate(bundle);// 此方法必须重写
 		init();
+
 		setfromandtoMarker();
 		searchRouteResult(ROUTE_TYPE_DRIVE, RouteSearch.DrivingDefault);
 	}
