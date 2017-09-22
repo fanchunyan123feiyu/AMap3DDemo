@@ -5,6 +5,7 @@ import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.RelativeLayout;
@@ -63,7 +64,7 @@ OnMarkerClickListener, OnInfoWindowClickListener, InfoWindowAdapter, OnRouteSear
 		mapView = (MapView) findViewById(R.id.route_map);
 		mapView.onCreate(bundle);// 此方法必须重写
 		init();
-
+		Log.e("TAG","第三次提交");
 		setfromandtoMarker();
 		searchRouteResult(ROUTE_TYPE_DRIVE, RouteSearch.DrivingDefault);
 	}
